@@ -78,4 +78,35 @@ otaApp.execute(true, appArgs);
 
 ## 参考
 
-tijos-http-ota源码： 
+- tijos-http-ota源码： https://github.com/TiJOSteam/tijos-http-ota
+- 在应用中启动OTA参考：https://github.com/TiJOSteam/tijos-http-ota/blob/main/sample/OTASample.java
+
+
+
+## 技术支持
+
+如果您有任何技术问题，可通过电话，微信， QQ群等方式与我们联系， 同时钛云物联可提供产品定制，通讯协议开发，云端接入，技术培训等多种服务。
+
+## 更多资源
+
+关于钛极OS(TiJOS)物联网操作系统可参考如下资源：
+
+| 资源           | url                                    |
+| -------------- | -------------------------------------- |
+| 钛云物联官网   | [www.tijos.net](http://www.tijos.net/) |
+| 钛极OS文档中心 | [doc.tijos.net](http://doc.tijos.net/) |
+|                |                                        |
+
+## 联系方式
+
+北京钛云物联科技有限公司
+
+商务合作：13911058165
+
+品牌热线：010-86462928
+
+公司网址：[www.tijos.net](http://www.tijos.net/)
+
+电子邮件：[tijos@tijos.net](mailto:tijos@tijos.net) 
+
+在线购买: https://shop423269048.taobao.com/
