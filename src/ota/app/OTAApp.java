@@ -8,7 +8,7 @@ import tijos.framework.appcenter.TiAPPManager;
 import tijos.framework.networkcenter.http.HttpClient;
 import tijos.framework.networkcenter.http.HttpMessage;
 import tijos.framework.networkcenter.http.IHttpMessageListener;
-import tijos.framework.util.SyncObject;
+import tijos.framework.util.WaitObject;
 import tijos.framework.util.logging.Logger;
 
 public class OTAApp implements IHttpMessageListener {
@@ -17,7 +17,7 @@ public class OTAApp implements IHttpMessageListener {
 
 	int originalAppId = -1;
 
-	SyncObject sync = new SyncObject();
+	WaitObject sync = new WaitObject();
 
 	OTAProgress otaProgress;
 
